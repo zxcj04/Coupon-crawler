@@ -1,17 +1,18 @@
-from .db.costco import get_products, insert_product
+from . import CostcoDBSingleton
 from .lib import CostcoProduct, get_data
 
 
 def main():
     costco_data = get_data()
+    costco_db = CostcoDBSingleton.get_instance()
 
     products = costco_data.get("products")
 
     for product in products:
         product = CostcoProduct.fromJson(product)
-        insert_product(product)
+        costco_db.insert_product(product)
 
-    products = get_products()
+    products = costco_db.get_products()
     serialized_products = []
     for product in products:
         product = list(product)

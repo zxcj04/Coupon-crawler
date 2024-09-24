@@ -1,3 +1,11 @@
-from .db.costco import create_db
+from .db.costco import CostcoDB
 
-create_db()
+
+class CostcoDBSingleton:
+    _instance = None
+
+    @staticmethod
+    def get_instance():
+        if CostcoDBSingleton._instance is None:
+            CostcoDBSingleton._instance = CostcoDB()
+        return CostcoDBSingleton._instance
