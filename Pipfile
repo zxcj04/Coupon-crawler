@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+isort = "==5.13.2"
+requests = "==2.32.3"
+pysqlite3 = "==0.5.3"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
+
+[scripts]
+format = "sh -c 'black . && isort .'"
+crawler = "python -m crawler"
