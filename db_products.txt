@@ -11898,3 +11898,1403 @@ Product: Fila 女刷毛休閒束口長褲
 	Discount Date End: None
 	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Fila-Ladies-Fleece-Jogger/p/140623
 
+Product: Samsung 55吋 4K QLED 量子智慧顯示器 QA55QE1DAXXZW
+	Base Price: 28699.0
+	Discount Price: 5740.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Samsung-55-inch-4K-QLED-Smart-Monitor-QA55QE1DAXXZW/p/145905
+
+Product: 舒潔 三層抽取式衛生紙 110抽 X 60入
+	Base Price: 1199.0
+	Discount Price: 221.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Househould-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Baby-Soft-3-ply-Interfold-Bath-Tissue-110-Sheet-X-60-Count/p/112200
+
+Product: SOLE S77+ 智能跑步機
+	Base Price: 79989.0
+	Discount Price: 16000.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Fitness-Equipment-Accessories/SOLE-S77-Smart-Treadmill/p/144929
+
+Product: 老協珍 冷凍熬雞精 68毫升 X 30入
+	Base Price: 3999.0
+	Discount Price: 800.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Health-Beauty/Incontinence/Supplements/Lao-Xie-Zhen-Frozen-Chicken-Essence-68-ml-X-30-Pack/p/118552
+
+Product: Kirkland Signature 科克蘭 新型緩釋魚油軟膠囊 180粒
+	Base Price: 625.0
+	Discount Price: 120.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Kirkland-Signature-Enteric-Omega-3-Fish-Oil-180-Softgel/p/240669
+
+Product: Charmnap 女性漏尿墊 15cc 128片
+	Base Price: 319.0
+	Discount Price: 70.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Health-Beauty/Incontinence/Adult-Diapers-Incontinence/Charmnap-Incontinence-Pad-15-cc-128-Piece/p/116342
+
+Product: Charmnap 女性漏尿墊 50cc 72片
+	Base Price: 219.0
+	Discount Price: 50.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Health-Beauty/Incontinence/Adult-Diapers-Incontinence/Charmnap-Incontinence-Pad-50-cc-72-Piece/p/116343
+
+Product: Charmnap 女性漏尿墊 3 cc X 160片
+	Base Price: 219.0
+	Discount Price: 50.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Health-Beauty/Incontinence/Adult-Diapers-Incontinence/Charmnap-Incontinence-Pad-3-cc-X-160-Piece/p/118786
+
+Product: 挺立 鈣強力錠 600毫克 310錠
+	Base Price: 1829.0
+	Discount Price: 360.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Caltrate-600-Plus-310-Tablet/p/890907
+
+Product: 桂格 即食大燕麥片隨身包 37.5公克 X 42包
+	Base Price: 519.0
+	Discount Price: 100.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Instant-Whole-Oats-375-g-X-42-Count/p/104989
+
+Product: 立頓 茗閒情台灣茶 活綠茶三角茶包 2.5公克 X 120包
+	Base Price: 399.0
+	Discount Price: 80.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Tea/Lipton-Taiwan-Green-Tea-Triangle-Tea-Bag-25-g-X-120-Piece/p/398704
+
+Product: 波樂 雞汁口味厚切洋芋片 580公克
+	Base Price: 219.0
+	Discount Price: 40.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Ruffles-Chicken-Soup-Flavored-Potato-Chips-580-g/p/123855
+
+Product: 來復易 輕快活力褲 內褲型成人紙尿褲 M號 88片
+	Base Price: 1399.0
+	Discount Price: 280.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Health-Beauty/Incontinence/Adult-Diapers-Incontinence/Lifree-Lightweight-Adult-Diaper-Pants-Size-M-88-Piece/p/143712
+
+Product: 百奇 巧克力棒 40公克 X 12入
+	Base Price: 299.0
+	Discount Price: 60.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Pocky-Chocolate-Biscuit-Sticks-40-g-X-12-Pack/p/103454
+
+Product: Samsonite Jaws 30吋 行李箱
+	Base Price: 3649.0
+	Discount Price: 800.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Luggage/Samsonite-Jaws-30-inch-Luggage/p/140928
+
+Product: 3M 平單式雙人保潔墊 3件組 150公分 X 186公分 X 32公分
+	Base Price: 1679.0
+	Discount Price: 380.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/3M-Protective-Pad-Bed-Cover-3-Piece-150-cm-X-186-cm-X-32-cm/p/107147
+
+Product: 明治 貓熊夾心餅乾組 35公克 X 36入
+	Base Price: 519.0
+	Discount Price: 100.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Meiji-Panda-Biscuit-Assortment-35-g-X-36-Pack/p/89590
+
+Product: 3M 平單式雙人加大保潔墊 3件組 180公分 X 186公分 X 35公分
+	Base Price: 1829.0
+	Discount Price: 380.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/3M-Protective-Pad-Bed-Cover-3-Piece-180-cm-X-186-cm-X-35-cm/p/107148
+
+Product: Brita 桌上型濾水箱 8.2公升 附六入 Maxtra Pro 濾芯
+	Base Price: 2059.0
+	Discount Price: 400.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-Flow-Tabletop-82-L-with-Plus-6-Maxtra-Pro-Filters/p/146057
+
+Product: Novaform 支撐記憶枕 45公分 X 71公分
+	Base Price: 929.0
+	Discount Price: 180.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Novaform-Memory-Foam-Pillow-45-cm-X-71-cm/p/1957635
+
+Product: 愛之味 純濃燕麥 340毫升 X 12入
+	Base Price: 289.0
+	Discount Price: 60.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/AGV-100-Oatmeal-Drink-340-ml-X-12-Count/p/97313
+
+Product: 幫寶適 一級幫拉拉褲 日本境內版 XL號 90片
+	Base Price: 1019.0
+	Discount Price: 200.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Househould-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Pants-Size-XL-90-Piece/p/139731
+
+Product: 幫寶適 一級幫拉拉褲 日本境內版 L號 102片
+	Base Price: 1019.0
+	Discount Price: 200.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Househould-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Pants-Size-L-102-Piece/p/139729
+
+Product: 幫寶適 一級幫拉拉褲 日本境內版 XXL號 78片
+	Base Price: 1199.0
+	Discount Price: 200.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Househould-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Pants-Size-XXL-78-Piece/p/139732
+
+Product: 幫寶適 一級幫紙尿褲 日本境內版 L號 208片
+	Base Price: 1899.0
+	Discount Price: 350.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Househould-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Diaper-Size-L-208-Piece/p/139538
+
+Product: 得意的一天 三益調和油 3.3公升
+	Base Price: 319.0
+	Discount Price: 60.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Great-Day-Blended-Oil-33-L/p/83932
+
+Product: 舒潔 濕式衛生紙 46張 X 32入
+	Base Price: 1429.0
+	Discount Price: 230.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Househould-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Flushable-Wipes-46-Sheet-X-32-Count/p/123333
+
+Product: Fiesta Pure Shine 洗臉洗手慕絲 280毫升 + 2公升補充瓶
+	Base Price: 599.0
+	Discount Price: 120.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Health-Beauty/Personal-Care/Facial-Cleansers-Hand-Washes/Fiesta-Pure-Shine-Face-Hand-Foam-280-ml-and-2-L-Refill/p/125194
+
+Product: 幫寶適 一級幫紙尿褲 日本境內版 XL號 152片
+	Base Price: 1799.0
+	Discount Price: 350.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Househould-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Diaper-Size-XL-152-Piece/p/139540
+
+Product: 哈瑞寶 金熊Q軟糖 1公斤
+	Base Price: 445.0
+	Discount Price: 90.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Haribo-Goldbaren-Minis-1-kg/p/205303
+
+Product: Kirkland Signature 科克蘭 維他命D3軟膠囊 600粒
+	Base Price: 499.0
+	Discount Price: 100.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Kirkland-Signature-Extra-Strength-D3-600-Softgel/p/125143
+
+Product: Ito-En 伊藤園 金萱烏龍茶 535毫升 X 24入
+	Base Price: 499.0
+	Discount Price: 90.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Tea/Ito-En-Jin-Xuan-Oolong-Tea-535-ml-X-24-Count/p/209829
+
+Product: Magnum 藍山調合咖啡豆 907公克
+	Base Price: 589.0
+	Discount Price: 120.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Magnum-Blue-Mountain-Blend-Coffee-907-g/p/468577
+
+Product: Kirkland Signature 科克蘭 超級維生素B群 300錠
+	Base Price: 599.0
+	Discount Price: 120.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Kirkland-Signature-Super-B-Complex-300-Tablet/p/338120
+
+Product: 雀巢 金牌冰萃濾袋研磨咖啡 10 公克 X 40 包
+	Base Price: 395.0
+	Discount Price: 90.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Gold-Cold-Brew-Bag-10-g-X-40-Pack/p/132545
+
+Product: 喜年來 原味蛋捲 72公克 X 20入
+	Base Price: 419.0
+	Discount Price: 40.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Serena-Egg-Roll-72-g-X-20-Pack/p/78080
+
+Product: Kirkland Signature 科克蘭 複合益生菌 90粒
+	Base Price: 879.0
+	Discount Price: 170.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Vitamins-Herbals-Dietary-Supplements/Kirkland-Signature-Probiotic-30-Billion-90-Capsule/p/1555606
+
+Product: 澳佳寶 大蒜精 膠囊食品 90顆 X 3瓶
+	Base Price: 1089.0
+	Discount Price: 215.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/BLACKMORES-Garlic-Oil-90-Capsule-X-3-Bottle/p/135606
+
+Product: Grandeur 快乾浴巾三入組 400GSM 76公分 X 137公分
+	Base Price: 699.0
+	Discount Price: 140.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Grandeur-Quick-Dry-Bath-Towel-3-Piece-400GSM-76-cm-X-137-cm/p/197399
+
+Product: 米森 BC益生菌草莓脆麥片 300公克 X 2包
+	Base Price: 399.0
+	Discount Price: 80.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Vilson-Probiotic-Strawberries-Granola-300-g-X-2-Bag/p/226599
+
+Product: 味滋康柑橘醋醬汁 1公升
+	Base Price: 185.0
+	Discount Price: 40.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Ajipon-Citrus-Seasoned-Soy-Sauce-1-L/p/126820
+
+Product: 多力多滋 起司玉米片 453.6公克
+	Base Price: 165.0
+	Discount Price: 30.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Doritos-Nacho-Cheese-Tortilla-Chips-4536-g/p/224331
+
+Product: 冷凍龍虎石斑下巴 3公斤
+	Base Price: 1129.0
+	Discount Price: 150.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Frozen-Tiger-Grouper-Jaw-3Kg/p/486793
+
+Product: Calvin Klein 女柔軟無鋼圈內衣二件組
+	Base Price: 0.0
+	Discount Price: 0.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Calvin-Klein-Ladies-Soft-Lightly-Lined-Bralette-2-Pack/p/5555670
+
+Product: 靠得住 導管式衛生棉條 一般型 64入
+	Base Price: 729.0
+	Discount Price: 160.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Health-Beauty/Personal-Care/Feminine-Care/Kotex-Tampon-Regular-64-Count/p/120066
+
+Product: 靠得住 導管式衛生棉條 量多型 64入
+	Base Price: 799.0
+	Discount Price: 160.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Health-Beauty/Personal-Care/Feminine-Care/Kotex-Tampon-Extra-64-Count/p/120064
+
+Product: 灣仔碼頭 冷凍高麗菜豬肉水餃 24公克 X 40顆 X 6盒
+	Base Price: 1119.0
+	Discount Price: 219.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Wanchai-Ferry-Frozen-Cabbage-and-Pork-Dumplings-24-g-X-40-Count-X-6-Pack/p/136277
+
+Product: 陳稼莊 果汁吸凍飲 百香果+芭樂 220公克 X 12入
+	Base Price: 399.0
+	Discount Price: 70.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/CJJ-Juice-Jelly-Drink-Passion-Fruit-and-Guava-220-g-X-12-Count/p/130245
+
+Product: 夏普 253公升變頻雙門冰箱 SJ-H25Y-WH
+	Base Price: 13999.0
+	Discount Price: 2000.0
+	Discount Date Start: 2023-01-01
+	Discount Date End: 2025-06-14
+	URL: https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Fridges-Freezers/SHARP-253-L-Top-Mount-Inverter-Fridge-SJ-H25Y-WH/p/137098
+
+Product: 北海 鱈魚香絲 600公克
+	Base Price: 319.0
+	Discount Price: 50.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/North-Sea-Fish-Snacks-600-g/p/78623
+
+Product: 樂天 優格風味碳酸飲 250毫升 X 30入
+	Base Price: 469.0
+	Discount Price: 90.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Lotte-Milkis-Soda-Drink-250-ml-X-30-Count/p/133053
+
+Product: 大田海洋 鮪魚鬆丁角 400公克 X 2包
+	Base Price: 369.0
+	Discount Price: 70.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Dah-Tien-Tuna-Fish-Snack-400-g-X-2-Pack/p/145669
+
+Product: 家樂氏 原味玉米早餐脆片 600公克 X 2入
+	Base Price: 299.0
+	Discount Price: 60.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Kelloggs-Corn-Flakes-Original-Flavor-600-g-X-2-Pack/p/99140
+
+Product: 雀巢奇巧 迷你威化巧克力家庭號 16.7公克 X 60條
+	Base Price: 459.0
+	Discount Price: 90.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Nestle-Kit-Kat-Mini-Chocolate-Bars-167-g-X-60-Count/p/89591
+
+Product: 大成 台灣冷凍雞清胸肉 2.7公斤 X 5入
+	Base Price: 2679.0
+	Discount Price: 330.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Dachan-Taiwan-Frozen-Chicken-Breast-27-kg-X-5-Count/p/119169
+
+Product: 五木 泰式冬蔭功湯麵 112公克 X 10包
+	Base Price: 315.0
+	Discount Price: 60.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Wu-Mu-Thai-Tom-Yam-Kung-Noodle-Soup-112-g-X-10-Pack/p/143969
+
+Product: 特趣 迷你焦糖夾心巧克力 1180 公克 
+	Base Price: 519.0
+	Discount Price: 110.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Twix-Minis-Chocolate-Bars-1180-g/p/87941
+
+Product: Bonne Maman 綜合果醬組 335公克 X 3入
+	Base Price: 499.0
+	Discount Price: 100.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Bonne-Maman-Fruit-Spread-335-g-X-3-Pack/p/143452
+
+Product: 卡夫 100%帕馬森起司粉 227公克 X 2入
+	Base Price: 449.0
+	Discount Price: 90.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Kraft-100-Grated-Parmesan-Cheese-227-g-X-2-Count/p/144895
+
+Product: 源鮮智慧農場 綜合萵苣盒 200公克 X 4入
+	Base Price: 779.0
+	Discount Price: 160.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/YesHealth-iFarm-Mixed-Lettuce-Box-200-g-X-4-Count/p/960217
+
+Product: 道地的偉特 奶油太妃糖 1公斤
+	Base Price: 419.0
+	Discount Price: 80.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Werthers-Original-Cream-Candies-1-kg/p/126427
+
+Product: 飛利浦 全自動義式咖啡機 EP2231
+	Base Price: 18699.0
+	Discount Price: 3700.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Coffee-Machines-Blenders-Juicers/Philips-Auto-Espresso-Machine-EP2231/p/126296
+
+Product: 西雅圖 榛果風味濃淬咖啡球 16毫升 X 40入
+	Base Price: 379.0
+	Discount Price: 80.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Barista-Hazelnut-Flavor-Coffee-Ball-16-ml-X-40-Count/p/234436
+
+Product: Kirkland Signature 科克蘭 男彈性長褲
+	Base Price: 649.0
+	Discount Price: 150.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Kirkland-Signature-Mens-Performance-Pant/p/7771392
+
+Product: BigFoot 海鹽檸檬糖 150公克 X 6包
+	Base Price: 279.0
+	Discount Price: 58.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/BigFoot-Sea-Salt-Lemon-Candy-150-g-X-6-Pack/p/121207
+
+Product: 歐司朗 朗德萬斯 20W 4呎 星皓LED支架燈 8入
+	Base Price: 1899.0
+	Discount Price: 380.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LEDVANCE-20W-4-ft-LED-Batten-8-Pack/p/146853-B
+
+Product: 奧利奧 迷你巧克力夾心餅乾 20.4公克 X 60入
+	Base Price: 519.0
+	Discount Price: 105.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/OREO-Mini-Chocolate-Sandwich-Cookies-204-g-X-60-Count/p/426451
+
+Product: 一吉膳 真情食味 即食紅燒鮑魚禮盒 180公克 X 3罐組
+	Base Price: 919.0
+	Discount Price: 180.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Groceries/Food/Good-Plenty-Braised-Abalone-Set-180-g-X-3-Can/p/146556
+
+Product: 冷凍蝦仁漿 100公克 X 5入
+	Base Price: 539.0
+	Discount Price: 80.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Frozen-Shrimp-Surimi-100-g-X-5-Count/p/412687
+
+Product: 農心 辛拉麵 黑 130公克 X 8包
+	Base Price: 369.0
+	Discount Price: 70.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Nongshim-Shin-Ramyun-Black-130-g-X-8-Pack/p/114773
+
+Product: 3M 平單式單人保潔墊 2件組 105公分 X 186公分 X 32公分
+	Base Price: 1329.0
+	Discount Price: 270.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/3M-Protective-Pad-Bed-Cover-2-Piece-105-cm-X-186-cm-X-32-cm/p/107099
+
+Product: ThermoFlask 不鏽鋼吸管隨行杯附提把 950毫升 X 2件組
+	Base Price: 799.0
+	Discount Price: 150.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/ThermoFlask-Insulated-Stainless-Steel-Straw-Tumbler-with-Handle-950-ml-X-2-Piece-Set/p/1630881
+
+Product: M&M's 牛奶糖衣巧克力罐裝 1757.7公克
+	Base Price: 625.0
+	Discount Price: 200.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/MMs-Milk-chocolate-17577-g/p/1199868
+
+Product: Reverie 親水舒眠枕
+	Base Price: 999.0
+	Discount Price: 200.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Reverie-Hydrophilic-Foam-Pillow/p/143754
+
+Product: 冷凍魷魚一夜干 3尾/包
+	Base Price: 499.0
+	Discount Price: 50.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Frozen-Semi-Dried-Squid-3-CountPack/p/212838
+
+Product: Fiesta Pure Shine 洗髮精套裝組 10公升 X 1入+ 充填器 X 1入
+	Base Price: 1269.0
+	Discount Price: 260.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Business-Delivery/Home-Kitchen/Bathroom/Fiesta-Pure-Shine-Shampoo-Set-10L-with-Push-Pump/p/215191
+
+Product: WMF ProfiSelect 不鏽鋼淺燉鍋含蓋 28公分
+	Base Price: 1659.0
+	Discount Price: 320.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/WMF-ProfiSelect-Stainless-Steel-Stock-Pot-with-Lid-28-cm/p/147061
+
+Product: 雀巢多趣酷思 義式濃縮咖啡膠囊組 96顆 適用NESCAFE Dolce Gusto機器
+	Base Price: 1399.0
+	Discount Price: 280.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Coffee/NESCAFE-Dolce-Gusto-Espresso-Capsule-Pack-96-Count-NESCAFE-Dolce-Gusto-Compatible/p/118317
+
+Product: Columbia 男保暖連帽外套
+	Base Price: 3199.0
+	Discount Price: 700.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Columbia-Mens-Out-Shield-Insulated-Full-Zip-Jacket/p/1737710
+
+Product: 健司 北海道牛奶年輪蛋糕 32入
+	Base Price: 349.0
+	Discount Price: 70.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Kenji-Japan-Hokkaido-Baumkuchen-32-Count/p/143136
+
+Product: Bayside Furnishings 四格櫃2入 附8個儲物籃
+	Base Price: 5499.0
+	Discount Price: 1500.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bayside-Furnishings-4-Cube-Room-Divider-2-Pack-with-8-Storage-Bins/p/141728
+
+Product: 雀巢多趣酷思 摩卡+拿鐵瑪奇朵咖啡膠囊 64顆 適用NESCAFE Dolce Gusto機器
+	Base Price: 949.0
+	Discount Price: 180.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Coffee/NESCAFE-Dolce-Gusto-Mocha-Latte-Macchiato-Capsule-Pack-64-Count-NESCAFE-Dolce-Gusto-Compatible/p/144254
+
+Product: Under Armour 男羽絨外套
+	Base Price: 4499.0
+	Discount Price: 1000.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Under-Armour-Mens-Down-Jacket/p/428495
+
+Product: Kirkland Signature 科克蘭 男長袖襯衫 白
+	Base Price: 779.0
+	Discount Price: 180.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Kirkland-Signature-Mens-Long-Sleeve-Shirt-White/p/7771519
+
+Product: Allertect 涼感枕 2入
+	Base Price: 529.0
+	Discount Price: 100.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Allertect-Ice-Pillow-2-Pack/p/645430
+
+Product: Town & Country 圓形編織地墊
+	Base Price: 639.0
+	Discount Price: 130.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Town-Country-Round-Accent-Rug/p/144965
+
+Product: Kirkland Signature 科克蘭 男長袖條紋襯衫 淺藍
+	Base Price: 779.0
+	Discount Price: 180.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Kirkland-Signature-Mens-Long-Sleeve-Pinstripe-Dress-Shirt-Light-Blue/p/7771521
+
+Product: LEKUE 矽膠密封袋 X 3件組
+	Base Price: 749.0
+	Discount Price: 150.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Food-Storage-Containers/LEKUE-Reusable-Silicone-Bags-X-3-Piece-Set/p/131794
+
+Product: 健達繽紛樂 43公克 X 18入
+	Base Price: 499.0
+	Discount Price: 95.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Kinder-Bueno-43-g-X-18-Count/p/68940
+
+Product: Kirkland Signature 科克蘭 女舒適九分褲
+	Base Price: 469.0
+	Discount Price: 100.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Kirkland-Signature-Ladies-Ankle-Length-Pant/p/7772055
+
+Product: 羅技 M221 靜音無線滑鼠 2入
+	Base Price: 1049.0
+	Discount Price: 210.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Keyboards-Mice-Computer-Accessories/Logitech-M221-Silent-Wireless-Mouse-2-Pack/p/133069
+
+Product: Fiesta Pure Shine 潤髮素套裝組 10公升 X 1入+ 充填器 X 1入
+	Base Price: 1269.0
+	Discount Price: 260.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Business-Delivery/Home-Kitchen/Bathroom/Fiesta-Pure-Shine-Conditioner-Set-10-L-with-and-Push-Pump/p/215192
+
+Product: Lee 女中腰休閒短褲
+	Base Price: 899.0
+	Discount Price: 250.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Lee-Ladies-Legendary-Carpenter-Short/p/1763696
+
+Product: Lee 女短袖Logo上衣
+	Base Price: 529.0
+	Discount Price: 100.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Lee-Ladies-Short-Sleeve-Logo-Tee/p/1763710
+
+Product: Tommy Hilfiger 女連帽外套
+	Base Price: 1245.0
+	Discount Price: 250.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Coats-Jackets/Tommy-Hilfiger-Ladies-Hooded-Jacket/p/138456
+
+Product: LEKUE 矽膠彈性保鮮膜 X 6件組
+	Base Price: 899.0
+	Discount Price: 180.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Food-Storage-Containers/LEKUE-Reusable-Flexible-Lids-X-6-Piece-Set/p/131789
+
+Product: Seg'ments 女美麗諾羊毛圓領長袖上衣
+	Base Price: 749.0
+	Discount Price: 150.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Segments-Ladies-Merino-Wool-Crew-Neck-Long-Sleeve-Top/p/1404722
+
+Product: Duro 桌上型不鏽鋼木炭烤爐
+	Base Price: 3045.0
+	Discount Price: 1140.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Camp-Kitchen-Cooking-Gear/Duro-Stainless-Steel-Charcoal-Tabletop-Grill-Kit/p/137515
+
+Product: 王品嚴選 冷凍番茄慢燉牛排湯 1400公克
+	Base Price: 649.0
+	Discount Price: 120.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Wow-Pin-Frozen-Tomato-Beef-Broth-1400-g/p/141608
+
+Product: Fila 女刷毛休閒束口長褲
+	Base Price: 599.0
+	Discount Price: 200.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Fila-Ladies-Fleece-Jogger/p/140623
+
+Product: Samsung 55吋 4K QLED 量子智慧顯示器 QA55QE1DAXXZW
+	Base Price: 28699.0
+	Discount Price: 5740.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Televisions-Appliances/TV-Home-Entertainment/Televisions-TV-Accessories/50-59-TVs/Samsung-55-inch-4K-QLED-Smart-Monitor-QA55QE1DAXXZW/p/145905
+
+Product: 舒潔 三層抽取式衛生紙 110抽 X 60入
+	Base Price: 1199.0
+	Discount Price: 221.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Househould-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Baby-Soft-3-ply-Interfold-Bath-Tissue-110-Sheet-X-60-Count/p/112200
+
+Product: SOLE S77+ 智能跑步機
+	Base Price: 79989.0
+	Discount Price: 16000.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Fitness-Equipment-Accessories/SOLE-S77-Smart-Treadmill/p/144929
+
+Product: 老協珍 冷凍熬雞精 68毫升 X 30入
+	Base Price: 3999.0
+	Discount Price: 800.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Health-Beauty/Incontinence/Supplements/Lao-Xie-Zhen-Frozen-Chicken-Essence-68-ml-X-30-Pack/p/118552
+
+Product: Kirkland Signature 科克蘭 新型緩釋魚油軟膠囊 180粒
+	Base Price: 625.0
+	Discount Price: 120.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Kirkland-Signature-Enteric-Omega-3-Fish-Oil-180-Softgel/p/240669
+
+Product: Charmnap 女性漏尿墊 15cc 128片
+	Base Price: 319.0
+	Discount Price: 70.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Health-Beauty/Incontinence/Adult-Diapers-Incontinence/Charmnap-Incontinence-Pad-15-cc-128-Piece/p/116342
+
+Product: Charmnap 女性漏尿墊 50cc 72片
+	Base Price: 219.0
+	Discount Price: 50.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Health-Beauty/Incontinence/Adult-Diapers-Incontinence/Charmnap-Incontinence-Pad-50-cc-72-Piece/p/116343
+
+Product: Charmnap 女性漏尿墊 3 cc X 160片
+	Base Price: 219.0
+	Discount Price: 50.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Health-Beauty/Incontinence/Adult-Diapers-Incontinence/Charmnap-Incontinence-Pad-3-cc-X-160-Piece/p/118786
+
+Product: 挺立 鈣強力錠 600毫克 310錠
+	Base Price: 1829.0
+	Discount Price: 360.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/Caltrate-600-Plus-310-Tablet/p/890907
+
+Product: 桂格 即食大燕麥片隨身包 37.5公克 X 42包
+	Base Price: 519.0
+	Discount Price: 100.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Quaker-Instant-Whole-Oats-375-g-X-42-Count/p/104989
+
+Product: 立頓 茗閒情台灣茶 活綠茶三角茶包 2.5公克 X 120包
+	Base Price: 399.0
+	Discount Price: 80.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Tea/Lipton-Taiwan-Green-Tea-Triangle-Tea-Bag-25-g-X-120-Piece/p/398704
+
+Product: 波樂 雞汁口味厚切洋芋片 580公克
+	Base Price: 219.0
+	Discount Price: 40.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Ruffles-Chicken-Soup-Flavored-Potato-Chips-580-g/p/123855
+
+Product: 來復易 輕快活力褲 內褲型成人紙尿褲 M號 88片
+	Base Price: 1399.0
+	Discount Price: 280.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Health-Beauty/Incontinence/Adult-Diapers-Incontinence/Lifree-Lightweight-Adult-Diaper-Pants-Size-M-88-Piece/p/143712
+
+Product: 百奇 巧克力棒 40公克 X 12入
+	Base Price: 299.0
+	Discount Price: 60.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Pocky-Chocolate-Biscuit-Sticks-40-g-X-12-Pack/p/103454
+
+Product: Samsonite Jaws 30吋 行李箱
+	Base Price: 3649.0
+	Discount Price: 800.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Luggage/Samsonite-Jaws-30-inch-Luggage/p/140928
+
+Product: 3M 平單式雙人保潔墊 3件組 150公分 X 186公分 X 32公分
+	Base Price: 1679.0
+	Discount Price: 380.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/3M-Protective-Pad-Bed-Cover-3-Piece-150-cm-X-186-cm-X-32-cm/p/107147
+
+Product: 明治 貓熊夾心餅乾組 35公克 X 36入
+	Base Price: 519.0
+	Discount Price: 100.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Meiji-Panda-Biscuit-Assortment-35-g-X-36-Pack/p/89590
+
+Product: 3M 平單式雙人加大保潔墊 3件組 180公分 X 186公分 X 35公分
+	Base Price: 1829.0
+	Discount Price: 380.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/3M-Protective-Pad-Bed-Cover-3-Piece-180-cm-X-186-cm-X-35-cm/p/107148
+
+Product: Brita 桌上型濾水箱 8.2公升 附六入 Maxtra Pro 濾芯
+	Base Price: 2059.0
+	Discount Price: 400.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Filtration/Brita-Flow-Tabletop-82-L-with-Plus-6-Maxtra-Pro-Filters/p/146057
+
+Product: Novaform 支撐記憶枕 45公分 X 71公分
+	Base Price: 929.0
+	Discount Price: 180.0
+	Discount Date Start: 2024-09-16
+	Discount Date End: 2024-09-29
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Novaform-Memory-Foam-Pillow-45-cm-X-71-cm/p/1957635
+
+Product: 愛之味 純濃燕麥 340毫升 X 12入
+	Base Price: 289.0
+	Discount Price: 60.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/AGV-100-Oatmeal-Drink-340-ml-X-12-Count/p/97313
+
+Product: 幫寶適 一級幫拉拉褲 日本境內版 XL號 90片
+	Base Price: 1019.0
+	Discount Price: 200.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Househould-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Pants-Size-XL-90-Piece/p/139731
+
+Product: 幫寶適 一級幫拉拉褲 日本境內版 L號 102片
+	Base Price: 1019.0
+	Discount Price: 200.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Househould-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Pants-Size-L-102-Piece/p/139729
+
+Product: 幫寶適 一級幫拉拉褲 日本境內版 XXL號 78片
+	Base Price: 1199.0
+	Discount Price: 200.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Househould-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Pants-Size-XXL-78-Piece/p/139732
+
+Product: 幫寶適 一級幫紙尿褲 日本境內版 L號 208片
+	Base Price: 1899.0
+	Discount Price: 350.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Househould-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Diaper-Size-L-208-Piece/p/139538
+
+Product: 得意的一天 三益調和油 3.3公升
+	Base Price: 319.0
+	Discount Price: 60.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Great-Day-Blended-Oil-33-L/p/83932
+
+Product: 舒潔 濕式衛生紙 46張 X 32入
+	Base Price: 1429.0
+	Discount Price: 230.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Househould-Baby-Toys/Household-Essentials/Toilet-Paper-Paper-Towels/Kleenex-Flushable-Wipes-46-Sheet-X-32-Count/p/123333
+
+Product: Fiesta Pure Shine 洗臉洗手慕絲 280毫升 + 2公升補充瓶
+	Base Price: 599.0
+	Discount Price: 120.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Health-Beauty/Personal-Care/Facial-Cleansers-Hand-Washes/Fiesta-Pure-Shine-Face-Hand-Foam-280-ml-and-2-L-Refill/p/125194
+
+Product: 幫寶適 一級幫紙尿褲 日本境內版 XL號 152片
+	Base Price: 1799.0
+	Discount Price: 350.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Househould-Baby-Toys/Baby/Baby-Diapers-Wipes/Pampers-Ichiban-Diaper-Size-XL-152-Piece/p/139540
+
+Product: 哈瑞寶 金熊Q軟糖 1公斤
+	Base Price: 445.0
+	Discount Price: 90.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Haribo-Goldbaren-Minis-1-kg/p/205303
+
+Product: Kirkland Signature 科克蘭 維他命D3軟膠囊 600粒
+	Base Price: 499.0
+	Discount Price: 100.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Kirkland-Signature-Extra-Strength-D3-600-Softgel/p/125143
+
+Product: Ito-En 伊藤園 金萱烏龍茶 535毫升 X 24入
+	Base Price: 499.0
+	Discount Price: 90.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Tea/Ito-En-Jin-Xuan-Oolong-Tea-535-ml-X-24-Count/p/209829
+
+Product: Magnum 藍山調合咖啡豆 907公克
+	Base Price: 589.0
+	Discount Price: 120.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Magnum-Blue-Mountain-Blend-Coffee-907-g/p/468577
+
+Product: Kirkland Signature 科克蘭 超級維生素B群 300錠
+	Base Price: 599.0
+	Discount Price: 120.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Health-Beauty/Supplements/Multi-Letter-Vitamins/Kirkland-Signature-Super-B-Complex-300-Tablet/p/338120
+
+Product: 雀巢 金牌冰萃濾袋研磨咖啡 10 公克 X 40 包
+	Base Price: 395.0
+	Discount Price: 90.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Nescafe-Gold-Cold-Brew-Bag-10-g-X-40-Pack/p/132545
+
+Product: 喜年來 原味蛋捲 72公克 X 20入
+	Base Price: 419.0
+	Discount Price: 40.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Serena-Egg-Roll-72-g-X-20-Pack/p/78080
+
+Product: Kirkland Signature 科克蘭 複合益生菌 90粒
+	Base Price: 879.0
+	Discount Price: 170.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Vitamins-Herbals-Dietary-Supplements/Kirkland-Signature-Probiotic-30-Billion-90-Capsule/p/1555606
+
+Product: 澳佳寶 大蒜精 膠囊食品 90顆 X 3瓶
+	Base Price: 1089.0
+	Discount Price: 215.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Health-Beauty/Supplements/Supplements-Digestive-Support/BLACKMORES-Garlic-Oil-90-Capsule-X-3-Bottle/p/135606
+
+Product: Grandeur 快乾浴巾三入組 400GSM 76公分 X 137公分
+	Base Price: 699.0
+	Discount Price: 140.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Towels/Grandeur-Quick-Dry-Bath-Towel-3-Piece-400GSM-76-cm-X-137-cm/p/197399
+
+Product: 米森 BC益生菌草莓脆麥片 300公克 X 2包
+	Base Price: 399.0
+	Discount Price: 80.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Vilson-Probiotic-Strawberries-Granola-300-g-X-2-Bag/p/226599
+
+Product: 味滋康柑橘醋醬汁 1公升
+	Base Price: 185.0
+	Discount Price: 40.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Groceries/Cooking-Oil-Sauces/Mizkan-Ajipon-Citrus-Seasoned-Soy-Sauce-1-L/p/126820
+
+Product: 多力多滋 起司玉米片 453.6公克
+	Base Price: 165.0
+	Discount Price: 30.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Doritos-Nacho-Cheese-Tortilla-Chips-4536-g/p/224331
+
+Product: 冷凍龍虎石斑下巴 3公斤
+	Base Price: 1129.0
+	Discount Price: 150.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Frozen-Tiger-Grouper-Jaw-3Kg/p/486793
+
+Product: Calvin Klein 女柔軟無鋼圈內衣二件組
+	Base Price: 0.0
+	Discount Price: 0.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Calvin-Klein-Ladies-Soft-Lightly-Lined-Bralette-2-Pack/p/5555670
+
+Product: 靠得住 導管式衛生棉條 一般型 64入
+	Base Price: 729.0
+	Discount Price: 160.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Health-Beauty/Personal-Care/Feminine-Care/Kotex-Tampon-Regular-64-Count/p/120066
+
+Product: 靠得住 導管式衛生棉條 量多型 64入
+	Base Price: 799.0
+	Discount Price: 160.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Health-Beauty/Personal-Care/Feminine-Care/Kotex-Tampon-Extra-64-Count/p/120064
+
+Product: 灣仔碼頭 冷凍高麗菜豬肉水餃 24公克 X 40顆 X 6盒
+	Base Price: 1119.0
+	Discount Price: 219.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Wanchai-Ferry-Frozen-Cabbage-and-Pork-Dumplings-24-g-X-40-Count-X-6-Pack/p/136277
+
+Product: 陳稼莊 果汁吸凍飲 百香果+芭樂 220公克 X 12入
+	Base Price: 399.0
+	Discount Price: 70.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/CJJ-Juice-Jelly-Drink-Passion-Fruit-and-Guava-220-g-X-12-Count/p/130245
+
+Product: 夏普 253公升變頻雙門冰箱 SJ-H25Y-WH
+	Base Price: 13999.0
+	Discount Price: 2000.0
+	Discount Date Start: 2023-01-01
+	Discount Date End: 2025-06-14
+	URL: https://www.costco.com.tw/Televisions-Appliances/Large-Appliances/Fridges-Freezers/SHARP-253-L-Top-Mount-Inverter-Fridge-SJ-H25Y-WH/p/137098
+
+Product: 北海 鱈魚香絲 600公克
+	Base Price: 319.0
+	Discount Price: 50.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/North-Sea-Fish-Snacks-600-g/p/78623
+
+Product: 樂天 優格風味碳酸飲 250毫升 X 30入
+	Base Price: 469.0
+	Discount Price: 90.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Beverages-Juice/Lotte-Milkis-Soda-Drink-250-ml-X-30-Count/p/133053
+
+Product: 大田海洋 鮪魚鬆丁角 400公克 X 2包
+	Base Price: 369.0
+	Discount Price: 70.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Nuts-Jerky/Dah-Tien-Tuna-Fish-Snack-400-g-X-2-Pack/p/145669
+
+Product: 家樂氏 原味玉米早餐脆片 600公克 X 2入
+	Base Price: 299.0
+	Discount Price: 60.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Powdered-Drink-Mix-Cereal-Oats/Kelloggs-Corn-Flakes-Original-Flavor-600-g-X-2-Pack/p/99140
+
+Product: 雀巢奇巧 迷你威化巧克力家庭號 16.7公克 X 60條
+	Base Price: 459.0
+	Discount Price: 90.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Nestle-Kit-Kat-Mini-Chocolate-Bars-167-g-X-60-Count/p/89591
+
+Product: 大成 台灣冷凍雞清胸肉 2.7公斤 X 5入
+	Base Price: 2679.0
+	Discount Price: 330.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Business-Delivery/Food-Beverages-Pet-Supplies/Frozen-Food/Dachan-Taiwan-Frozen-Chicken-Breast-27-kg-X-5-Count/p/119169
+
+Product: 五木 泰式冬蔭功湯麵 112公克 X 10包
+	Base Price: 315.0
+	Discount Price: 60.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Wu-Mu-Thai-Tom-Yam-Kung-Noodle-Soup-112-g-X-10-Pack/p/143969
+
+Product: 特趣 迷你焦糖夾心巧克力 1180 公克 
+	Base Price: 519.0
+	Discount Price: 110.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Twix-Minis-Chocolate-Bars-1180-g/p/87941
+
+Product: Bonne Maman 綜合果醬組 335公克 X 3入
+	Base Price: 499.0
+	Discount Price: 100.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Groceries/Baking-Dried-Goods/Bonne-Maman-Fruit-Spread-335-g-X-3-Pack/p/143452
+
+Product: 卡夫 100%帕馬森起司粉 227公克 X 2入
+	Base Price: 449.0
+	Discount Price: 90.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Groceries/Canned-Prepared-Food/Kraft-100-Grated-Parmesan-Cheese-227-g-X-2-Count/p/144895
+
+Product: 源鮮智慧農場 綜合萵苣盒 200公克 X 4入
+	Base Price: 779.0
+	Discount Price: 160.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Chilled-Fresh-Food/YesHealth-iFarm-Mixed-Lettuce-Box-200-g-X-4-Count/p/960217
+
+Product: 道地的偉特 奶油太妃糖 1公斤
+	Base Price: 419.0
+	Discount Price: 80.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Werthers-Original-Cream-Candies-1-kg/p/126427
+
+Product: 飛利浦 全自動義式咖啡機 EP2231
+	Base Price: 18699.0
+	Discount Price: 3700.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Televisions-Appliances/Kitchen-Appliances/Coffee-Machines-Blenders-Juicers/Philips-Auto-Espresso-Machine-EP2231/p/126296
+
+Product: 西雅圖 榛果風味濃淬咖啡球 16毫升 X 40入
+	Base Price: 379.0
+	Discount Price: 80.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Coffee/Barista-Hazelnut-Flavor-Coffee-Ball-16-ml-X-40-Count/p/234436
+
+Product: Kirkland Signature 科克蘭 男彈性長褲
+	Base Price: 649.0
+	Discount Price: 150.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Kirkland-Signature-Mens-Performance-Pant/p/7771392
+
+Product: BigFoot 海鹽檸檬糖 150公克 X 6包
+	Base Price: 279.0
+	Discount Price: 58.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/BigFoot-Sea-Salt-Lemon-Candy-150-g-X-6-Pack/p/121207
+
+Product: 歐司朗 朗德萬斯 20W 4呎 星皓LED支架燈 8入
+	Base Price: 1899.0
+	Discount Price: 380.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LEDVANCE-20W-4-ft-LED-Batten-8-Pack/p/146853-B
+
+Product: 奧利奧 迷你巧克力夾心餅乾 20.4公克 X 60入
+	Base Price: 519.0
+	Discount Price: 105.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/OREO-Mini-Chocolate-Sandwich-Cookies-204-g-X-60-Count/p/426451
+
+Product: 一吉膳 真情食味 即食紅燒鮑魚禮盒 180公克 X 3罐組
+	Base Price: 919.0
+	Discount Price: 180.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Groceries/Food/Good-Plenty-Braised-Abalone-Set-180-g-X-3-Can/p/146556
+
+Product: 冷凍蝦仁漿 100公克 X 5入
+	Base Price: 539.0
+	Discount Price: 80.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Frozen-Shrimp-Surimi-100-g-X-5-Count/p/412687
+
+Product: 農心 辛拉麵 黑 130公克 X 8包
+	Base Price: 369.0
+	Discount Price: 70.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Groceries/Rice-Noodles/Nongshim-Shin-Ramyun-Black-130-g-X-8-Pack/p/114773
+
+Product: 3M 平單式單人保潔墊 2件組 105公分 X 186公分 X 32公分
+	Base Price: 1329.0
+	Discount Price: 270.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Mattress-Toppers/3M-Protective-Pad-Bed-Cover-2-Piece-105-cm-X-186-cm-X-32-cm/p/107099
+
+Product: ThermoFlask 不鏽鋼吸管隨行杯附提把 950毫升 X 2件組
+	Base Price: 799.0
+	Discount Price: 150.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/ThermoFlask-Insulated-Stainless-Steel-Straw-Tumbler-with-Handle-950-ml-X-2-Piece-Set/p/1630881
+
+Product: M&M's 牛奶糖衣巧克力罐裝 1757.7公克
+	Base Price: 625.0
+	Discount Price: 200.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/MMs-Milk-chocolate-17577-g/p/1199868
+
+Product: Reverie 親水舒眠枕
+	Base Price: 999.0
+	Discount Price: 200.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Reverie-Hydrophilic-Foam-Pillow/p/143754
+
+Product: 冷凍魷魚一夜干 3尾/包
+	Base Price: 499.0
+	Discount Price: 50.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Seafood-Meat/Frozen-Semi-Dried-Squid-3-CountPack/p/212838
+
+Product: Fiesta Pure Shine 洗髮精套裝組 10公升 X 1入+ 充填器 X 1入
+	Base Price: 1269.0
+	Discount Price: 260.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Business-Delivery/Home-Kitchen/Bathroom/Fiesta-Pure-Shine-Shampoo-Set-10L-with-Push-Pump/p/215191
+
+Product: WMF ProfiSelect 不鏽鋼淺燉鍋含蓋 28公分
+	Base Price: 1659.0
+	Discount Price: 320.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Cookware-Cutlery-Cutting-Boards/WMF-ProfiSelect-Stainless-Steel-Stock-Pot-with-Lid-28-cm/p/147061
+
+Product: 雀巢多趣酷思 義式濃縮咖啡膠囊組 96顆 適用NESCAFE Dolce Gusto機器
+	Base Price: 1399.0
+	Discount Price: 280.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Coffee/NESCAFE-Dolce-Gusto-Espresso-Capsule-Pack-96-Count-NESCAFE-Dolce-Gusto-Compatible/p/118317
+
+Product: Columbia 男保暖連帽外套
+	Base Price: 3199.0
+	Discount Price: 700.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Columbia-Mens-Out-Shield-Insulated-Full-Zip-Jacket/p/1737710
+
+Product: 健司 北海道牛奶年輪蛋糕 32入
+	Base Price: 349.0
+	Discount Price: 70.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Cookies-Chips/Kenji-Japan-Hokkaido-Baumkuchen-32-Count/p/143136
+
+Product: Bayside Furnishings 四格櫃2入 附8個儲物籃
+	Base Price: 5499.0
+	Discount Price: 1500.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Furniture/Cabinets-Tables/Bayside-Furnishings-4-Cube-Room-Divider-2-Pack-with-8-Storage-Bins/p/141728
+
+Product: 雀巢多趣酷思 摩卡+拿鐵瑪奇朵咖啡膠囊 64顆 適用NESCAFE Dolce Gusto機器
+	Base Price: 949.0
+	Discount Price: 180.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Drinks/Coffee/NESCAFE-Dolce-Gusto-Mocha-Latte-Macchiato-Capsule-Pack-64-Count-NESCAFE-Dolce-Gusto-Compatible/p/144254
+
+Product: Under Armour 男羽絨外套
+	Base Price: 4499.0
+	Discount Price: 1000.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Under-Armour-Mens-Down-Jacket/p/428495
+
+Product: Kirkland Signature 科克蘭 男長袖襯衫 白
+	Base Price: 779.0
+	Discount Price: 180.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Kirkland-Signature-Mens-Long-Sleeve-Shirt-White/p/7771519
+
+Product: Allertect 涼感枕 2入
+	Base Price: 529.0
+	Discount Price: 100.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Pillows-Comforters-Blankets/Allertect-Ice-Pillow-2-Pack/p/645430
+
+Product: Town & Country 圓形編織地墊
+	Base Price: 639.0
+	Discount Price: 130.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Town-Country-Round-Accent-Rug/p/144965
+
+Product: Kirkland Signature 科克蘭 男長袖條紋襯衫 淺藍
+	Base Price: 779.0
+	Discount Price: 180.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Kirkland-Signature-Mens-Long-Sleeve-Pinstripe-Dress-Shirt-Light-Blue/p/7771521
+
+Product: LEKUE 矽膠密封袋 X 3件組
+	Base Price: 749.0
+	Discount Price: 150.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Food-Storage-Containers/LEKUE-Reusable-Silicone-Bags-X-3-Piece-Set/p/131794
+
+Product: 健達繽紛樂 43公克 X 18入
+	Base Price: 499.0
+	Discount Price: 95.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Snacks/Candies-Chocolates/Kinder-Bueno-43-g-X-18-Count/p/68940
+
+Product: Kirkland Signature 科克蘭 女舒適九分褲
+	Base Price: 469.0
+	Discount Price: 100.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Kirkland-Signature-Ladies-Ankle-Length-Pant/p/7772055
+
+Product: 羅技 M221 靜音無線滑鼠 2入
+	Base Price: 1049.0
+	Discount Price: 210.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Keyboards-Mice-Computer-Accessories/Logitech-M221-Silent-Wireless-Mouse-2-Pack/p/133069
+
+Product: Fiesta Pure Shine 潤髮素套裝組 10公升 X 1入+ 充填器 X 1入
+	Base Price: 1269.0
+	Discount Price: 260.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Business-Delivery/Home-Kitchen/Bathroom/Fiesta-Pure-Shine-Conditioner-Set-10-L-with-and-Push-Pump/p/215192
+
+Product: Lee 女中腰休閒短褲
+	Base Price: 899.0
+	Discount Price: 250.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Lee-Ladies-Legendary-Carpenter-Short/p/1763696
+
+Product: Lee 女短袖Logo上衣
+	Base Price: 529.0
+	Discount Price: 100.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Lee-Ladies-Short-Sleeve-Logo-Tee/p/1763710
+
+Product: Tommy Hilfiger 女連帽外套
+	Base Price: 1245.0
+	Discount Price: 250.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Coats-Jackets/Tommy-Hilfiger-Ladies-Hooded-Jacket/p/138456
+
+Product: LEKUE 矽膠彈性保鮮膜 X 6件組
+	Base Price: 899.0
+	Discount Price: 180.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Food-Storage-Containers/LEKUE-Reusable-Flexible-Lids-X-6-Piece-Set/p/131789
+
+Product: Seg'ments 女美麗諾羊毛圓領長袖上衣
+	Base Price: 749.0
+	Discount Price: 150.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Segments-Ladies-Merino-Wool-Crew-Neck-Long-Sleeve-Top/p/1404722
+
+Product: Duro 桌上型不鏽鋼木炭烤爐
+	Base Price: 3045.0
+	Discount Price: 1140.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Sports-Lifestyle/Camping-Outdoors/Camp-Kitchen-Cooking-Gear/Duro-Stainless-Steel-Charcoal-Tabletop-Grill-Kit/p/137515
+
+Product: 王品嚴選 冷凍番茄慢燉牛排湯 1400公克
+	Base Price: 649.0
+	Discount Price: 120.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Food-Dining/Frozen-Fresh-Food/Frozen-Meals/Wow-Pin-Frozen-Tomato-Beef-Broth-1400-g/p/141608
+
+Product: Fila 女刷毛休閒束口長褲
+	Base Price: 599.0
+	Discount Price: 200.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Fila-Ladies-Fleece-Jogger/p/140623
+
