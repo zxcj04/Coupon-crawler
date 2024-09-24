@@ -17,7 +17,7 @@ Product: SOLE S77+ 智能跑步機
 	Discount Price: 16000.0
 	Discount Date Start: 2024-09-16
 	Discount Date End: 2024-09-29
-	URL: https://www.costco.com.tw/Sports-Lifestyle/Sports-Fitness/Fitness-Equipment-Accessories/SOLE-S77-Smart-Treadmill/p/144929
+	URL: https://www.costco.com.tw/p/144929
 
 Product: 老協珍 冷凍熬雞精 68毫升 X 30入
 	Base Price: 3999.0
@@ -101,7 +101,7 @@ Product: Samsonite Jaws 30吋 行李箱
 	Discount Price: 800.0
 	Discount Date Start: 2024-09-16
 	Discount Date End: 2024-09-29
-	URL: https://www.costco.com.tw/Clothing-Accessories/Luggage-Backpacks/Luggage/Samsonite-Jaws-30-inch-Luggage/p/140928
+	URL: https://www.costco.com.tw/Clothing-Accessories/p/140928
 
 Product: 3M 平單式雙人保潔墊 3件組 150公分 X 186公分 X 32公分
 	Base Price: 1679.0
@@ -304,7 +304,7 @@ Product: Calvin Klein 女柔軟無鋼圈內衣二件組
 	Discount Price: 0.0
 	Discount Date Start: None
 	Discount Date End: None
-	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Socks-Intimates/Calvin-Klein-Ladies-Soft-Lightly-Lined-Bralette-2-Pack/p/5555670
+	URL: https://www.costco.com.tw/Clothing-Accessories/p/5555670
 
 Product: 靠得住 導管式衛生棉條 一般型 64入
 	Base Price: 729.0
@@ -444,7 +444,7 @@ Product: Kirkland Signature 科克蘭 男彈性長褲
 	Discount Price: 150.0
 	Discount Date Start: None
 	Discount Date End: None
-	URL: https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Bottoms/Kirkland-Signature-Mens-Performance-Pant/p/7771392
+	URL: https://www.costco.com.tw/Clothing-Accessories/p/7771392
 
 Product: BigFoot 海鹽檸檬糖 150公克 X 6包
 	Base Price: 279.0
@@ -458,7 +458,7 @@ Product: 歐司朗 朗德萬斯 20W 4呎 星皓LED支架燈 8入
 	Discount Price: 380.0
 	Discount Date Start: None
 	Discount Date End: None
-	URL: https://www.costco.com.tw/Furniture-Kitchen/Hardware-DIY/Lighting-Light-Bulbs/OSRAM-LEDVANCE-20W-4-ft-LED-Batten-8-Pack/p/146853-B
+	URL: https://www.costco.com.tw/p/146853-B
 
 Product: 奧利奧 迷你巧克力夾心餅乾 20.4公克 X 60入
 	Base Price: 519.0
@@ -500,7 +500,7 @@ Product: ThermoFlask 不鏽鋼吸管隨行杯附提把 950毫升 X 2件組
 	Discount Price: 150.0
 	Discount Date Start: None
 	Discount Date End: None
-	URL: https://www.costco.com.tw/Furniture-Kitchen/Kitchen-Dining/Water-Bottles/ThermoFlask-Insulated-Stainless-Steel-Straw-Tumbler-with-Handle-950-ml-X-2-Piece-Set/p/1630881
+	URL: https://www.costco.com.tw/p/1630881
 
 Product: M&M's 牛奶糖衣巧克力罐裝 1757.7公克
 	Base Price: 625.0
@@ -577,7 +577,7 @@ Product: Under Armour 男羽絨外套
 	Discount Price: 1000.0
 	Discount Date Start: None
 	Discount Date End: None
-	URL: https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Coats-Jackets/Under-Armour-Mens-Down-Jacket/p/428495
+	URL: https://www.costco.com.tw/Clothing-Accessories/p/428495
 
 Product: Kirkland Signature 科克蘭 男長袖襯衫 白
 	Base Price: 779.0
@@ -598,14 +598,14 @@ Product: Town & Country 圓形編織地墊
 	Discount Price: 130.0
 	Discount Date Start: None
 	Discount Date End: None
-	URL: https://www.costco.com.tw/Furniture-Kitchen/Bedding/Rugs-Mats/Town-Country-Round-Accent-Rug/p/144965
+	URL: https://www.costco.com.tw/Bedding/p/144965
 
 Product: Kirkland Signature 科克蘭 男長袖條紋襯衫 淺藍
 	Base Price: 779.0
 	Discount Price: 180.0
 	Discount Date Start: None
 	Discount Date End: None
-	URL: https://www.costco.com.tw/Clothing-Accessories/Mens-Clothing/Mens-Tops/Kirkland-Signature-Mens-Long-Sleeve-Pinstripe-Dress-Shirt-Light-Blue/p/7771521
+	URL: https://www.costco.com.tw/Clothing-Accessories/p/7771521
 
 Product: LEKUE 矽膠密封袋 X 3件組
 	Base Price: 749.0
@@ -633,14 +633,14 @@ Product: 羅技 M221 靜音無線滑鼠 2入
 	Discount Price: 210.0
 	Discount Date Start: None
 	Discount Date End: None
-	URL: https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/Keyboards-Mice-Computer-Accessories/Logitech-M221-Silent-Wireless-Mouse-2-Pack/p/133069
+	URL: https://www.costco.com.tw/Digital-Mobile/Laptops-Computers/p/133069
 
 Product: Fiesta Pure Shine 潤髮素套裝組 10公升 X 1入+ 充填器 X 1入
 	Base Price: 1269.0
 	Discount Price: 260.0
 	Discount Date Start: None
 	Discount Date End: None
-	URL: https://www.costco.com.tw/Business-Delivery/Home-Kitchen/Bathroom/Fiesta-Pure-Shine-Conditioner-Set-10-L-with-and-Push-Pump/p/215192
+	URL: https://www.costco.com.tw/Home-Kitchen/Bathroom/p/215192
 
 Product: Lee 女中腰休閒短褲
 	Base Price: 899.0
@@ -661,7 +661,7 @@ Product: Tommy Hilfiger 女連帽外套
 	Discount Price: 250.0
 	Discount Date Start: None
 	Discount Date End: None
-	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Coats-Jackets/Tommy-Hilfiger-Ladies-Hooded-Jacket/p/138456
+	URL: https://www.costco.com.tw/Clothing-Accessories/p/138456
 
 Product: LEKUE 矽膠彈性保鮮膜 X 6件組
 	Base Price: 899.0
@@ -675,7 +675,7 @@ Product: Seg'ments 女美麗諾羊毛圓領長袖上衣
 	Discount Price: 150.0
 	Discount Date Start: None
 	Discount Date End: None
-	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Tops/Segments-Ladies-Merino-Wool-Crew-Neck-Long-Sleeve-Top/p/1404722
+	URL: https://www.costco.com.tw/Clothing-Accessories/p/1404722
 
 Product: Duro 桌上型不鏽鋼木炭烤爐
 	Base Price: 3045.0
@@ -697,4 +697,11 @@ Product: Fila 女刷毛休閒束口長褲
 	Discount Date Start: None
 	Discount Date End: None
 	URL: https://www.costco.com.tw/Clothing-Accessories/Womens-Clothing/Womens-Bottoms-Dresses/Fila-Ladies-Fleece-Jogger/p/140623
+
+Product: Fitflop 女輕量人體工學夾腳拖鞋
+	Base Price: 859.0
+	Discount Price: 200.0
+	Discount Date Start: None
+	Discount Date End: None
+	URL: https://www.costco.com.tw/Clothing-Accessories/p/1763680
 
