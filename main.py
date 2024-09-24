@@ -2,7 +2,9 @@ import json
 import re
 from datetime import date, datetime
 
-FILE_NAME = "costco.json"
+import requests
+
+# FILE_NAME = "costco.json"
 
 
 class Product:
@@ -46,9 +48,16 @@ class Product:
         )
 
 
+def get_data():
+    url = "https://www.costco.com.tw/rest/v2/taiwan/products/search?fields=FULL&query=&pageSize=10000&category=hot-buys&lang=zh_TW&curr=TWD"
+    response = requests.get(url)
+    return response.json()
+
+
 def main():
-    with open(FILE_NAME, "r") as file:
-        data = json.load(file)
+    # with open(FILE_NAME, "r") as file:
+    #     data = json.load(file)
+    data = get_data()
 
     products = data.get("products")
     serialized_products = []
@@ -62,7 +71,7 @@ def main():
         product = Product(name, basePrice, discountPrice, summary, url)
         serialized_products.append(product)
 
-    with open("products.txt", "w") as file:
+    with open("web_products.txt", "w") as file:
         for product in serialized_products:
             file.write(str(product) + "\n\n")
 
