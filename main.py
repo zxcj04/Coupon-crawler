@@ -8,19 +8,38 @@ import requests
 
 
 class Product:
-    name = ""
-    basePrice = 0
-    discountPrice = 0
-    discountDateStart = date.today()
-    discountDateEnd = date.today()
-    url = ""
+    @property
+    def name(self):
+        return self._name
+
+    @property
+    def basePrice(self):
+        return self._basePrice
+
+    @property
+    def discountPrice(self):
+        return self._discountPrice
+
+    @property
+    def discountDateStart(self):
+        return self._discountDateStart
+
+    @property
+    def discountDateEnd(self):
+        return self._discountDateEnd
+
+    @property
+    def url(self):
+        return self._url
 
     def __init__(self, name, basePrice, discountPrice, summary, url):
-        self.name = name
-        self.basePrice = basePrice
-        self.discountPrice = discountPrice
-        self.discountDateStart, self.discountDateEnd = self.extractDiscountDate(summary)
-        self.url = "https://www.costco.com.tw/" + url
+        self._name = name
+        self._basePrice = basePrice
+        self._discountPrice = discountPrice
+        self._discountDateStart, self._discountDateEnd = self.extractDiscountDate(
+            summary
+        )
+        self._url = "https://www.costco.com.tw/" + url
 
     @staticmethod
     def extractDiscountDate(summary):
@@ -39,12 +58,12 @@ class Product:
 
     def __str__(self):
         return (
-            f"Product: {self.name}\n"
-            f"\tBase Price: {self.basePrice}\n"
-            f"\tDiscount Price: {self.discountPrice}\n"
-            f"\tDiscount Date Start: {self.discountDateStart}\n"
-            f"\tDiscount Date End: {self.discountDateEnd}\n"
-            f"\tURL: {self.url}"
+            f"Product: {self._name}\n"
+            f"\tBase Price: {self._basePrice}\n"
+            f"\tDiscount Price: {self._discountPrice}\n"
+            f"\tDiscount Date Start: {self._discountDateStart}\n"
+            f"\tDiscount Date End: {self._discountDateEnd}\n"
+            f"\tURL: {self._url}"
         )
 
 
