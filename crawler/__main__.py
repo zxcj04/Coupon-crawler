@@ -10,7 +10,10 @@ def main():
 
     for product in products:
         product = CostcoProduct.fromJson(product)
-        costco_db.insert_product(product)
+        if costco_db.is_exists(product):
+            costco_db.modify_product(product)
+        else:
+            costco_db.insert_product(product)
 
     products = costco_db.get_products()
     serialized_products = []
