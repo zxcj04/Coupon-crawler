@@ -1,3 +1,4 @@
 isort==5.13.2
 requests==2.32.3
 pysqlite3==0.5.3
+mortalprogressbar==1.0.1

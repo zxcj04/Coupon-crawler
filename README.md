@@ -3,6 +3,14 @@
 ## 簡介
 
 這是一個用 python requests 抓取商品優惠的爬蟲\
+最近在使用 Costco 的服務的時候覺得優惠訊息有點不好找\
+所以就想說寫一個爬蟲來抓取優惠資訊\
+這樣就可以用自己熟悉的方式來查看優惠資訊\
+未來也可以加入其他電商的爬蟲\
+這樣就可以一次查看多家電商的優惠資訊\
+甚至可以做橫向的比較\
+這樣就可以更快速的找到最適合自己的商品
+
 目前實作了抓取臺灣 Costco 的優惠資訊並且存入 SQLite\
 使用了模組化的開發 將 DB 的 ORM 獨立出來方便抽換底層及前後處理\
 在 `crawler/__init__.py` 中則是使用了 Singleton 的方法避免重複建立 DB instance\
@@ -35,8 +43,27 @@
 不需要在每個 method 中都寫上 try except\
 也不需要在每個 method 中都寫上 connection 的建立及關閉
 
+## Docker
+
+在 `docker/Dockerfile` 中使用了 multi-stage build\
+這樣可以讓 image 更小\
+只需要將需要的檔案複製到最後的 image 中\
+而不需要將所有檔案都複製到最後的 image 中
+
+目前沒有把 sqlite 額外 volume 出來\
+若需要保留資料\
+可以在 `docker run` 時使用 `-v` 參數\
+將 sqlite 的檔案 volume 出來
+
 
 ## 使用方法
+
+### Docker
+
+```bash
+docker build -t crawler -f docker/Dockerfile .
+docker run -it --rm crawler
+```
 
 ### Pipenv
 
