@@ -2,12 +2,16 @@ import json
 import re
 from datetime import date, datetime
 
+import pysqlite3 as sqlite3
 import requests
 
-# FILE_NAME = "costco.json"
+FILE_NAME = "costco.json"
+DB_NAME = "costco.db"
 
 
 class Product:
+    URL_PREFIX = "https://www.costco.com.tw"
+
     @property
     def name(self):
         return self._name
@@ -32,14 +36,27 @@ class Product:
     def url(self):
         return self._url
 
-    def __init__(self, name, basePrice, discountPrice, summary, url):
+    def __init__(
+        self, name, basePrice, discountPrice, discountDateStart, discountDateEnd, url
+    ):
         self._name = name
         self._basePrice = basePrice
         self._discountPrice = discountPrice
-        self._discountDateStart, self._discountDateEnd = self.extractDiscountDate(
-            summary
+        self._discountDateStart = discountDateStart
+        self._discountDateEnd = discountDateEnd
+        self._url = url
+
+    @classmethod
+    def fromJson(cls, product):
+        name = product.get("name")
+        basePrice = product.get("basePrice", {}).get("value", 0)
+        discountPrice = product.get("discountPrice", {}).get("value", 0)
+        summary = product.get("summary")
+        url = cls.URL_PREFIX + product.get("url")
+        discountDateStart, discountDateEnd = cls.extractDiscountDate(summary)
+        return cls(
+            name, basePrice, discountPrice, discountDateStart, discountDateEnd, url
         )
-        self._url = "https://www.costco.com.tw/" + url
 
     @staticmethod
     def extractDiscountDate(summary):
@@ -67,33 +84,102 @@ class Product:
         )
 
 
-def get_data():
+def get_data(web=False):
+    if not web:
+        with open(FILE_NAME, "r") as file:
+            data = json.load(file)
+        return data
+
     url = "https://www.costco.com.tw/rest/v2/taiwan/products/search?fields=FULL&query=&pageSize=10000&category=hot-buys&lang=zh_TW&curr=TWD"
     response = requests.get(url)
     return response.json()
 
 
+def create_db():
+    conn = sqlite3.connect(DB_NAME)
+    cursor = conn.cursor()
+    cursor.execute(
+        """
+        CREATE TABLE IF NOT EXISTS products (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            name TEXT,
+            basePrice REAL,
+            discountPrice REAL,
+            discountDateStart DATE,
+            discountDateEnd DATE,
+            url TEXT
+        )
+        """
+    )
+    conn.commit()
+    conn.close()
+
+
+def insert_product(product):
+    conn = sqlite3.connect(DB_NAME)
+    cursor = conn.cursor()
+    cursor.execute(
+        """
+        INSERT INTO products (name, basePrice, discountPrice, discountDateStart, discountDateEnd, url)
+        VALUES (?, ?, ?, ?, ?, ?)
+        """,
+        (
+            product.name,
+            product.basePrice,
+            product.discountPrice,
+            product.discountDateStart,
+            product.discountDateEnd,
+            product.url,
+        ),
+    )
+    conn.commit()
+    conn.close()
+
+
+def get_products():
+    conn = sqlite3.connect(DB_NAME)
+    cursor = conn.cursor()
+    cursor.execute(
+        """
+        SELECT name, basePrice, discountPrice, discountDateStart, discountDateEnd, url
+        FROM products
+        """
+    )
+    products = cursor.fetchall()
+    conn.close()
+    return products
+
+
+def setup():
+    create_db()
+
+
 def main():
-    # with open(FILE_NAME, "r") as file:
-    #     data = json.load(file)
     data = get_data()
 
     products = data.get("products")
-    serialized_products = []
 
     for product in products:
-        name = product.get("name")
-        basePrice = product.get("basePrice", {}).get("value", 0)
-        discountPrice = product.get("discountPrice", {}).get("value", 0)
-        summary = product.get("summary")
-        url = product.get("url")
-        product = Product(name, basePrice, discountPrice, summary, url)
-        serialized_products.append(product)
+        product = Product.fromJson(product)
+        insert_product(product)
 
-    with open("web_products.txt", "w") as file:
+    products = get_products()
+    serialized_products = []
+    for product in products:
+        product = list(product)
+        try:
+            serialized_product = Product(*product)
+        except Exception as e:
+            print(product)
+            print(e)
+            continue
+        serialized_products.append(serialized_product)
+
+    with open("db_products.txt", "w") as file:
         for product in serialized_products:
             file.write(str(product) + "\n\n")
 
 
 if __name__ == "__main__":
+    setup()
     main()
